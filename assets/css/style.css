@@ -8,6 +8,7 @@ body {
 header {
   color: white;
   text-align: center;
+  text-shadow: 1px 1px 1px black;
 
 }
 
@@ -43,4 +44,15 @@ footer {
 
 #container-prima {
   background-color: rgb(245, 183, 158);
+}
+
+h3 {
+  background-color: rgb(243, 196, 133);
+  width: 60%;
+  border-radius: 6px;
+  box-shadow: 1px 1px 1px rgb(90, 89, 89);
+}
+
+p {
+  text-align: justify;
 }
